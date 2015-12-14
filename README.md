@@ -35,11 +35,10 @@ A collection of primitive shapes and basic effects.
     //start the test
     scene.initialise().then(onInitialized, onError);
     
-    
 ## License
 
-    [MIT License](http://opensource.org/licenses/MIT).
+[MIT License](http://opensource.org/licenses/MIT).
 
 ## Written by
     
-    [Parvez K](emailto:flamboyanz@gmail.com)
+[Parvez K](emailto:flamboyanz@gmail.com)
