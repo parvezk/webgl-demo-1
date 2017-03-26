@@ -1,4 +1,5 @@
 .DS_Store
 .idea
 assets/
-unity/
+chrysler-300/node_modules/
+logo/node_modules
